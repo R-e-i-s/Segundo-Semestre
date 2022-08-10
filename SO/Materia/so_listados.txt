@@ -1,0 +1,14 @@
+debian-
+arch-
+manjaro-
+mint-
+macOS
+Linux-
+Unix-
+Unbuntu-
+Windows NT-
+RedHat-
+Android-
+IOS-
+Ubuntu Touch-
+Windows Mobile-
