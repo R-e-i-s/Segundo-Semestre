@@ -1,0 +1,8 @@
+Eu, enquanto dona de uma loja de confeitos, quero um sistema web para fazer o recebimento dos pedidos, para organizar e agilizar esses pedidos.
+
+Para manter a padronização dos meus sistemas, eu, enquanto dona de uma loja de confeitos, quero que meu sistema use  Javascript e SQL-Server.
+
+Eu, como cliente de Dona Maria, quero um sistema para fazer meus pedidos, para não necessitar em ligações ou WhatsApp para pedir minhas encomendas.
+
+Eu, enquanto confeiteiro, quero que o setor da confeitaria seja automaticamente comunicado quando um pedido for feito, para agilizar e automatizar a produção.
+
