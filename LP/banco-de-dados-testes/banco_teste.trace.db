@@ -1,0 +1,15 @@
+2022-10-04 19:30:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE FILME IF EXIST[*]; "; expected "EXISTS"; SQL statement:
+DROP TABLE filme IF EXIST; [42001-199]
+2022-10-04 19:31:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILME" already exists; SQL statement:
+CREATE TABLE filme (id INT PRIMARY KEY AUTO_INCREMENT,nome VARCHAR(255) NOT NULL,ano_lancamento int NOT NULL); [42101-199]
+2022-10-04 19:57:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DESCRIBE[*] FILME "; expected "DELETE, DROP, DECLARE, DEALLOCATE"; SQL statement:
+DESCRIBE filme [42001-199]
+2022-10-04 19:58:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DESCRIBE[*] FILME; "; expected "DELETE, DROP, DECLARE, DEALLOCATE"; SQL statement:
+DESCRIBE filme; [42001-199]
+2022-10-04 20:34:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM FILME WHERE NOME = GALDINO E[*] OS AMIGOS "; SQL statement:
+SELECT * FROM filme WHERE NOME = Galdino e os Amigos [42000-199]
